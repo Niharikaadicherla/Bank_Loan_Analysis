@@ -1,6 +1,6 @@
 # Bank_Loan_Analysis
 ### Description
-This project analyzes the bank loan application dataset using SQL and Python to gain insights into borrower behavior and loan performance.
+This project analyzes the bank loan application dataset using SQL to gain insights into borrower behavior and loan performance.
 
 ### Dataset Description / META DATA
 The dataset contains the following columns:
